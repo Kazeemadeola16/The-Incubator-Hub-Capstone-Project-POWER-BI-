@@ -21,7 +21,7 @@ The goal of this analysis is to generate actionable insights that can help:
 •	Recommend focus areas for management based on the insights derived
 
 
-## Tools & Functions Used
+## Tools & Functions
 
 •	Power BI
 -  Data Modeling & Visualization
@@ -41,7 +41,7 @@ This was carried out based on the instruction given.
 
 •	Used power query to merge department fields and combine relevant columns.
 
-•	Created a calculated column to geoup salary into salary range.
+•	Created a calculated column to group salary into salary range.
 
 •	Created a custom column to calculate bonus Pay by multiplying the employee's salary by their department’s bonus rate and the total salary pay.
 
@@ -57,7 +57,7 @@ This was carried out based on the instruction given.
 
 •	The company did not meet the manufacturing minimum wage of $90,000
 
-•	202 employees earn over 100,000
+•	202 employees earn over ₦100,000
 
 •	Kaduna has the highest concentration of employees 
 
@@ -66,7 +66,7 @@ This was carried out based on the instruction given.
 •	Salary band distribution is fairly spread across the three regions: Abuja, Kaduna, and Lagos but salary inequality is evident.
 
 
-##Recommendations
+## Recommendations
 
 1.	Conduct salary equity audits in departments with gaps.
 
@@ -84,7 +84,7 @@ This was carried out based on the instruction given.
 
 •	Palmora Group Bonus Rule
 
-## Dahboard
+## Dashboard
 ![Palmora Group Dashboard](https://github.com/user-attachments/assets/8f164004-defe-491c-943b-48e72bd081d8)
 
 
