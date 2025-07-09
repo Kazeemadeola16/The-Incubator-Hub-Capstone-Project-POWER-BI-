@@ -47,7 +47,7 @@ This was carried out based on the instruction given.
 
 
 ## Key Metrics & Insights
-•	Average Salary: ₦73.54K
+•	Average Salary: ₦73.75K
 
 •	Minimum Salary: ₦28k
 
