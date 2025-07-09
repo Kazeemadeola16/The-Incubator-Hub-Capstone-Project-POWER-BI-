@@ -85,7 +85,9 @@ This was carried out based on the instruction given.
 •	Palmora Group Bonus Rule
 
 ## Dashboard
-![Palmora Group Dashboard](https://github.com/user-attachments/assets/8f164004-defe-491c-943b-48e72bd081d8)
+
+![Screenshot 2025-07-09 185056](https://github.com/user-attachments/assets/f29c88fa-a1d7-4d60-95c2-f82734fd1ce8)
 
 
 
+![Screenshot 2025-07-09 185114](https://github.com/user-attachments/assets/e1c541a7-2437-4967-8ebb-db5c71ae9191)
