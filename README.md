@@ -49,7 +49,7 @@ This was carried out based on the instruction given.
 ## Key Metrics & Insights
 •	Average Salary: ₦73.54K
 
-•	Minimum Salary: ₦28.13K
+•	Minimum Salary: ₦28k
 
 •	Total Number of Employees: 943
 
